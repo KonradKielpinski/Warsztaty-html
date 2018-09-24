@@ -1,2 +1,2 @@
-# Warsztaty-html
-Tworzenie strony internetowej
+# Workshops - html
+Creating a website in HTML5
